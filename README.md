@@ -1,57 +1,36 @@
-<html lang="en">
-<head>
-<!--
-    New Perspectives on HTML5 and CSS3, 8th Edition
-    Tutorial 1
-    Tutorial Case
-    General Information about Curbside Thai
-    Author:   Crystal Evans
-    Date:     2021-03-01
-    Filename: ct_about.html
-   -->
-   <meta charset="utf-8" />
-   <meta name="keywords"
-            content="Thai, restaurant, Charlotte, food" />
+<!DOCTYPE html>
 
-   <link href="ct_base.css" rel="stylesheet" />
-   <link href="ct_layout2.css" rel="stylesheet" />   
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Week 1 Assignment">
+<meta name="keywords" content="HTML5 & CSS">
+
+<meta name="author" content="S. Maz">
+
+
 </head>
 
 <body>
-   <header>
-      <a href="ct_start.html"><img src="ct_logo2.png" alt="Curbside Thai" /></a>
-      <nav>
-         <ul>
-            <li><a href="ct_about.html">About</a></li>
-            <li><a href="ct_locations.html">Locations</a></li>
-            <li><a href="ct_menu.html">Menu</a></li>
-            <li><a href="ct_reviews.html">Reviews</a></li>
-            <li><a href="ct_catering.html">Catering</a></li>
-            <li><a href="ct_contact.html">Contact</a></li>
-         </ul>
-      </nav>      
-   </header>  
-   <article>
-      <h1>About Us</h1>
-      <img src="ct_photo1.png" alt="" />
-      <p><strong>Curbside Thai</strong> brings the rich flavor of Thailand to 
-         North Carolina. Master Chef Sajja Adulet, with over 35 
-         years of experience at the House of Asia, now offers 
-         that same fine dining to the streets of Charlotte 
-         with our modern mobile food truck.</p>
-      <p>This is not bland vendor food packaged in greasy 
-         paper boxes! Sample his acclaimed cuisine at our various 
-         mobile locations throughout downtown Charlotte from 
-         11 a.m. to 7 p.m. on Monday through Thursday, and 
-         11 a.m. to 11 p.m. on Friday and Saturday. Taste the 
-         difference! If you can't get away from your desk, 
-         <em>Curbside Thai will deliver</em>.</p>
-      <p>Contact us to cater your next party and experience 
-         what <cite>Carolina Traveler</cite> calls <q>the finest Asian food 
-         on or off the streets of Charlotte</q>.</p>
-   </article>
-   <footer>
-      Curbside Thai &#8226; 411 Belde Drive, Charlotte NC &nbsp; 28201 &#8226; 704-555-1151
-   </footer>
+
+		
+<center><h1>Welcome to my Sample Page</h1></center>
+
+
+
+<p>On this page I will display projects I am completing in my COP2822 class. All projects are examples of my work and none of the products are available for purchase. It is hoped that learners will see the value in this demonstration and perhaps hone skills enough to become eLancers.<br>
+<br>
+I will use FTP - FileZilla to publish to my <a href="http://students.fscj.edu/">school's </a>hosting server and AwardSpace to publish using the File Manager feature to publish to my FREE site.<p> <a href="https://www.awardspace.com/">AwardSpace</a> provides both free hosting and domain services.  AwardSpace recently made changes to their free service, please read carefully. </p>
+
+<ul>
+    
+<li>
+    
+Case Study 1- [Curbside Thai](https://xm001.github.io/learnmore.github.io/ct_about.html)
+</ul>
+<p>&nbsp;</p>
 </body>
 </html>
+			
