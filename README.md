@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html>
 
@@ -10,10 +9,6 @@
 
 <meta name="author" content="S. Maz">
 
-
-</head>
-
-<body>
 
 		
 <center><h1>Welcome to my Sample Page</h1></center>
@@ -28,9 +23,9 @@ I will use FTP - FileZilla to publish to my <a href="http://students.fscj.edu/">
     
 <li>
     
-Case Study 1- [Curbside Thai](https://xm001.github.io/learnmore.github.io/ct_about.html)
+Case Study 1-
+[Curbside Thai](https://xm001.github.io/learnmore.github.io/ct_about.html)
 </ul>
 <p>&nbsp;</p>
-</body>
-</html>
+
 			
