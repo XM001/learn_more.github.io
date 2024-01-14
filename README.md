@@ -21,10 +21,12 @@ I will use FTP - FileZilla to publish to my <a href="http://students.fscj.edu/">
 
 <ul>
     
-<li>
+
     
 Case Study 1-
 [Curbside Thai](https://xm001.github.io/learnmore.github.io/ct_about.html)
+
+
 </ul>
 <p>&nbsp;</p>
 
